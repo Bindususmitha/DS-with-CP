@@ -7,3 +7,5 @@ output of task 11.5 java
 ![WhatsApp Image 2026-01-24 at 3 59 11 PM](https://github.com/user-attachments/assets/794c4c68-49a8-4df7-8f6b-2e7a15e68bca)
 output of task 12 java
 <img width="640" height="559" alt="Screenshot 2026-01-31 145324" src="https://github.com/user-attachments/assets/7b0ac7c5-ab49-4da9-b4c6-cad114f74245" />
+output of task 125 java
+<img width="349" height="622" alt="Screenshot 2026-01-31 152250" src="https://github.com/user-attachments/assets/e0970032-f429-400b-900e-ac517d6b3485" />
