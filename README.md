@@ -9,3 +9,5 @@ output of task 12 java
 <img width="640" height="559" alt="Screenshot 2026-01-31 145324" src="https://github.com/user-attachments/assets/7b0ac7c5-ab49-4da9-b4c6-cad114f74245" />
 output of task 125 java
 <img width="349" height="622" alt="Screenshot 2026-01-31 152250" src="https://github.com/user-attachments/assets/e0970032-f429-400b-900e-ac517d6b3485" />
+output of task 13 java
+![WhatsApp Image 2026-02-18 at 3 45 09 PM](https://github.com/user-attachments/assets/6b88fcbc-57a6-41a4-8447-ef31cde9bc77)
