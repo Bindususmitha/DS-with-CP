@@ -12,5 +12,6 @@ output of task 125 java
 output of task 13 java
 ![WhatsApp Image 2026-02-18 at 3 45 09 PM](https://github.com/user-attachments/assets/6b88fcbc-57a6-41a4-8447-ef31cde9bc77)
 output of task 14 java
-![WhatsApp Image 2026-02-25 at 3 59 17 PM](https://github.com/user-attachments/assets/81803da1-0d63-4f53-b445-96623a6d0736)
+![WhatsApp Image 2026-02-25 at 4 17 53 PM](https://github.com/user-attachments/assets/1b72cfa7-c8a9-4244-a716-5a97c41aabda)
+
 
