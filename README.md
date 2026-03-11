@@ -18,6 +18,8 @@ output of task 16 java
 ![WhatsApp Image 2026-03-06 at 2 22 30 PM](https://github.com/user-attachments/assets/4e7b1db7-1f9d-42e5-af4d-a67a0daacd0e)
 output of task 17 java
 <img width="277" height="159" alt="Screenshot 2026-03-09 190749" src="https://github.com/user-attachments/assets/32ab6672-b38b-4a3d-9b30-e5ef324f6181" />
+output of task 18 java
+<img width="929" height="268" alt="Screenshot 2026-03-11 160407" src="https://github.com/user-attachments/assets/3127a6a8-5ca2-4a2f-97de-032c00c7d8fa" />
 
 
 
